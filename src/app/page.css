@@ -1,0 +1,18 @@
+.foo{
+
+  background-image:linear-gradient(rgba(0,0,0,0), rgba(0,0,0,1)), url("../../public/17.jpg");
+  background-size: cover;
+  background-position: top,bottom,center;
+  background-repeat: no-repeat;
+height: 200vh;
+}
+
+
+.soo{
+
+  background-image:linear-gradient(rgba(0,0,0,0), rgba(0,0,0,1)), url("../../public/13.jpg");
+  background-size: cover,;
+  background-position: top,bottom,center;
+  background-repeat:  no-repeat;
+height: 200vh;
+}
